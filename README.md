@@ -1,3 +1,5 @@
+(This is against Discord ToS, so use it at your own discretion)
+
 # discordXtwitter
 Python bot that tracks a user Twitter activity and tweets in realtime to search for a discord link and join it asap from the provided discord.
 
