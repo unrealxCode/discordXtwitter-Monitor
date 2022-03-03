@@ -13,3 +13,4 @@ Working:
 
 The script will pull all the daily tweets of the user and check for a discord link to join with your provided Discord account.
 The script will create a tweets.txt file to keep track of the fetched tweets or older disocrd links from the tweets.
+The bot will look for discord links in the user tweets and join the discord if it finds any from the provided discord account.
